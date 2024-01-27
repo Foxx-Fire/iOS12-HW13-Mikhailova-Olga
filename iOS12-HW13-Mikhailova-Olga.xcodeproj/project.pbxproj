@@ -18,6 +18,7 @@
 		0BCA4FC12B659DB70006AB65 /* ExtMainController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BCA4FC02B659DB70006AB65 /* ExtMainController.swift */; };
 		0BCA4FC32B659E420006AB65 /* SwitchTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BCA4FC22B659E420006AB65 /* SwitchTableViewCell.swift */; };
 		0BCA4FC52B659E920006AB65 /* NumberTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BCA4FC42B659E920006AB65 /* NumberTableViewCell.swift */; };
+		0BCA4FC72B659EE60006AB65 /* WordTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BCA4FC62B659EE60006AB65 /* WordTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		0BCA4FC02B659DB70006AB65 /* ExtMainController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtMainController.swift; sourceTree = "<group>"; };
 		0BCA4FC22B659E420006AB65 /* SwitchTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwitchTableViewCell.swift; sourceTree = "<group>"; };
 		0BCA4FC42B659E920006AB65 /* NumberTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberTableViewCell.swift; sourceTree = "<group>"; };
+		0BCA4FC62B659EE60006AB65 /* WordTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 				0BCA4FA72B6597420006AB65 /* ViewController.swift */,
 				0BCA4FBC2B659CAD0006AB65 /* MainViewController.swift */,
 				0BCA4FBE2B659D230006AB65 /* StandartTableViewCell.swift */,
+				0BCA4FC62B659EE60006AB65 /* WordTableViewCell.swift */,
 				0BCA4FC22B659E420006AB65 /* SwitchTableViewCell.swift */,
 				0BCA4FBA2B659BCC0006AB65 /* SettingModel.swift */,
 				0BCA4FC02B659DB70006AB65 /* ExtMainController.swift */,
@@ -185,6 +188,7 @@
 				0BCA4FC52B659E920006AB65 /* NumberTableViewCell.swift in Sources */,
 				0BCA4FC12B659DB70006AB65 /* ExtMainController.swift in Sources */,
 				0BCA4FBD2B659CAD0006AB65 /* MainViewController.swift in Sources */,
+				0BCA4FC72B659EE60006AB65 /* WordTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
